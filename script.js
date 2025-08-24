@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
         whatsappButton.addEventListener('click', function() {
             // Simula abertura do WhatsApp
             const message = encodeURIComponent('Olá! Gostaria de saber mais sobre os produtos.');
-            const whatsappUrl = `https://wa.me/5511999999999?text=${message}`;
+            const whatsappUrl = `https://wa.me/5571982604882?text=${message}`;
             window.open(whatsappUrl, '_blank');
         });
     }
